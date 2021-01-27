@@ -3,6 +3,6 @@
 # *THIS IS*
 * Reasons I'm glad we're not using YAML
   * Its not YAML
-  * Its not YAML
+  * Its not *YAML*
   * Its not YAML
   * Its not YAML
