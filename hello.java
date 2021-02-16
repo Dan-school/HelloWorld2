@@ -1,3 +1,5 @@
+import java.time.LocalDate;
+
 class Hello{
     public static void main(String[] args) {
         System.out.println("her ye her ye! By order of the King, me, Derek, I, we do declare Dreamland is now a theocracy!");
@@ -8,5 +10,6 @@ class Hello{
         System.out.println("hi, charlie");
         System.out.println("hi, denise");
         System.out.println("hi, ester");
+        System.out.println("current date is " + LocalDate.now());
     }
 }
