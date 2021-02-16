@@ -11,5 +11,6 @@ class Hello{
         System.out.println("hi, denise");
         System.out.println("hi, ester");
         System.out.println("current date is " + LocalDate.now());
+        System.out.println("current free memory: " + Runtime.getRuntime().freeMemory() / 1000000 + " mb");
     }
 }
